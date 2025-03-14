@@ -4,7 +4,7 @@
 
 Welcome to my **(Savvy) Survey Builder** project! 🎉
 
-This is a **survey creation tool** built with **React** and **SurveyJS**, aimed at making the process of building surveys easier, more interactive, and visually appealing. My goal with this project is to create a tool that lets you design surveys with a **drag-and-drop interface** (similar to **Nintex Forms**), so you can easily add multiple question types, customize the layout, and preview the surveys before finalizing them.
+This is a **survey creation tool** built with **React** and **SurveyJS**, aimed at making the process of building surveys easier, more interactive, and visually appealing. My goal with this project is to create a tool that lets you design surveys with a drag-and-drop interface, so you can easily add multiple question types, customize the layout, and preview the surveys before finalizing them.
 
 ## Features Implemented
 
@@ -22,7 +22,7 @@ So far, here’s what I’ve built:
   - You can **preview** your survey, ensuring everything looks good before you move forward. For now, it outputs the survey data to the console (but I'm planning to display the live form for a more interactive experience).
 
 - **Survey Logic**:
-  - I’ve included basic functionality for adding conditional logic (like showing specific questions based on previous answers), which is a core feature in survey tools like **Nintex Forms**.
+  - I’ve included basic functionality for adding conditional logic (like showing specific questions based on previous answers), which is a core feature in survey tools like.
 
 - **Responsive Design**: 
   - The layout is **mobile-friendly**, so it looks great on both small and large screens. Buttons and interactions are smooth with subtle animations for a pleasant user experience.
@@ -81,7 +81,7 @@ If you’d like to try out the Survey Builder or contribute, here’s how you ca
 Here are some things I’d like to add next to make the app even better:
 
 - **Live Survey Preview**: Instead of just logging the survey JSON, I’d like to display the **live form** so users can interact with their created survey right away.
-- **Advanced Conditional Logic**: I want to make it possible to add complex **visibility rules** that control which questions appear based on previous answers (think **Nintex Forms** style).
+- **Advanced Conditional Logic**: I want to make it possible to add complex **visibility rules** that control which questions appear based on previous answers.
 - **Survey Export**: Add a feature to **save and export** surveys to formats like JSON, CSV, or directly to a database.
 - **Drag-and-Drop Question Sorting**: Enhance the interface to allow users to **drag and drop** questions to reorder them easily.
 - **UI Polish**: The UI could use some further refinement to make it even more visually stunning and user-friendly.
